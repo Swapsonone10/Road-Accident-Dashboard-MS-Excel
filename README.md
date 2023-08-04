@@ -2,11 +2,11 @@
 
 ## Project Name: Road Accident Dashboard
 
-## Project Description: 
+## Project Description : 
 This project creates a road accident dashboard for the years 2021 and 2022. The dashboard provides insights into the number of casualties, the types of vehicles ivolved in accidents, and the time of day when accidents are most likely to happen.
 
-## Project Goals:
-Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight into the requirements:
+## Project Goals :
+Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight into the requirements :
 
 ✅ Total Casualties took place after the accident
 
@@ -22,19 +22,46 @@ Clients want to create a road accident dashboard for the years 2021 and 2022 so 
 
 ✅ Relation between Casualties by Area/ Location & by Day/ Night
 
-## Excel Project Tools and Techniques:
+## Stakeholders : 
 
-✅ Data cleaning - In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
+✅ Ministry of Transport
 
-✅ Data processing : Creating some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
+✅ Road Transport Department
 
-✅ Data analysis : Used various statistical methods to get valuable insights from the data.
+✅ Police Force
 
-✅ Data Visualization : Used Excel as a visualization tool. With the help of this, I have created attractive charts, graphs, and interactive visuals to present the data in an easy way.
+✅ Emergency Service Department
 
-✅ Dashboard Making: Finally, I built a dashboard in Excel by inserting slicers and timelines that allow users to interact with the data.
+✅ Road Safety Corps
 
-## Key Insight
+✅ Transport Operators
+
+✅ Traffic Management Agencies
+
+✅ Public
+
+✅ Media
+
+## Activities Carried Out :
+
+✅ Getting dataset from client (although this dataset was gotten here in kaggle) : The data was gotten from Kaggle
+Data is available in Google Drive (link below) :
+
+https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
+
+✅ Data Cleaning : In this step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data with which I worked is accurate and reliable for further analysis.
+
+✅ Data Processing : Creating some new columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
+
+✅ Data Analysis : Used various statistical methods to get valuable insights from the data.
+
+✅ Data Visualization: Used Excel as a visualization tool. With the help of this, I have created attractive charts, graphs, and interactive visuals to present the data in an easy way.
+
+✅ Dashboard Making : Dashboard became interactive and dynamic by creating a filter panel using timeline and slicer as already created in pivot table. Dashboard also has link which lead to the dashboard, my email, client website(if requested) and to the Data Analysis Sheet directly and vice versa
+
+Filter panel marked out in red on Dashboar
+
+## Key Insight :
 
 ✅ Total Casualties that took place after the accident is 417883
 
